@@ -19,7 +19,7 @@ export default function Hero() {
                 <p className='text-xl text-[#010D3E] tracking-tight mt-3 py-1'>
                     Celebrate the joy of accomplishment with an app designed to track your progress, motivate your efforts, and celebrate your success.
                 </p>
-                <div className='flex gap-2 mt-4'>
+                <div className='flex gap-2 mt-6'>
                     <button 
                     className="btn btn-primary"
                     >
